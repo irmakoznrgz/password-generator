@@ -15,4 +15,8 @@ I developed this project to practice Python GUI programming. It is a desktop too
 - **pyperclip** (for clipboard operations)
 
 ## How to Run
-1. Install the required modules:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/irmakoznrgz/password-generator.git](https://github.com/irmakoznrgz/password-generator.git)
+   cd password-generator
