@@ -1,1 +1,2 @@
-#This project relies solely on the Python standard library. No external dependencies are needed.
+qrcode
+pyperclip
